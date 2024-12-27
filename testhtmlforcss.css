@@ -1,0 +1,18 @@
+/* Class for styling the description */
+.description {
+
+    font-size: 55px;
+    color: red;
+    margin: auto;
+    text-align:center
+
+
+  }
+
+  /* Style for the result paragraph */
+#result {
+    font-size: 20px;
+    color: blue;
+    margin-top: 20px;
+    text-align: center;
+}
